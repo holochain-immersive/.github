@@ -7,7 +7,7 @@
 3. Complete exercises 1 and 2 from the [forum exercise](https://github.com/holochain-immersive/forum-happ/blob/main/EXERCISES.md#exercise-1-profiles-zome)
 4. [Go through lesson 3](https://holochain-immersive.github.io/holochain-lesson-3)
 5. [Go through lesson 4](https://holochain-immersive.github.io/holochain-lesson-4)
-6. Complete exercise 3 from the [forum exercise]([https://github.com/holochain-immersive/forum-happ/blob/main/EXERCISES.md#exercise-1-profiles-zome](https://github.com/holochain-immersive/forum-happ/blob/main/EXERCISES.md#exercise-3-posts-zome)https://github.com/holochain-immersive/forum-happ/blob/main/EXERCISES.md#exercise-3-posts-zome)
+6. Complete exercise 3 from the [forum exercise](https://github.com/holochain-immersive/forum-happ/blob/main/EXERCISES.md#exercise-3-posts-zome)
 7. [Go through lesson 4](https://holochain-immersive.github.io/holochain-lesson-5)
 8. Complete exercise 1 from the [private publication exercise](https://github.com/holochain-immersive/private-publication/blob/main/EXERCISES.md#exercise-1-capability-tokens)
 9. [Go through lesson 6](https://holochain-immersive.github.io/holochain-lesson-6)
